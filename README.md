@@ -34,6 +34,8 @@ These channels post new airdrops
 
 # Airdrops
 
+* [alidrop](http://alidrop.me/index-en.html) 100 for signup
+* [openfuture](http://bounty.openfuture.io/)
 * [viuly](https://viuly.io/) Balance 10.0000 VIU (0.0713892 USD)
 * [sphere](https://sphere.social/) 50 SAT coins for signup
 * [Signals](https://signals.network/)
@@ -53,12 +55,13 @@ These channels post new airdrops
 * [EDU](http://drop.edu.one)  EDU
 * [obrium](https://ico.obirum.com) send zero and get 100 OBR and there is a bounties program for signup
 * [fan](https://fantokenreferral.kickoffpages.com) Email, Telegram Name, Eth Wallet
-
+* [wcxt](https://ico.wcex.co/) 50 + REF BONUS 50 WCXT + 5% of the WCXT they buy, and they get an extra 15% bonus when they buy WCXT.
 * [cloudbounce](https://www.cloudbounce.com/dbounce)
 * [gluon](https://www.gluon.com/tokensale)
 * [invox](https://airdrops.invox.mo.works/sign-up)
 * [ukit](https://token.ukit.com)
-
+## Needs Phone
+* [gift](https://gift.one/) 100 for signup, needs phone number
 ## Google forms
 * [BlockArray](https://docs.google.com/forms/d/e/1FAIpQLSduMG_rikWocCI2Oec0hKPSDR_d3oJ7-GrjxdHQbynF-jYFAA/viewform)
 * [Subeum Airdrop](https://docs.google.com/forms/d/e/1FAIpQLSc1zi7iRIwyWKDyflZzOJc8ApTRyxy0jv5_Tzi5abKa2dn0oA/viewform?fbzx=-4926019626413182000)  ACCOUNTS REGISTERED AFTER 25 OCTOBER ARE NOT ELIGIBLE.
@@ -143,7 +146,7 @@ These are referal only not pure airdrops
 * [MAXDATA](https://airdrop.maxdata.io)
 * [TrakInvest](http://telegram.me/TrakInvestBounty_Bot ) 10 TRAKs per friend invited
 * [vuzzbee](https://www.vuzzbee.com)
-* https://ico.wcex.co/ REF BONUS 50 WCXT + 5% of the WCXT they buy, and they get an extra 15% bonus when they buy WCXT.
+
 
 # New Table
 
@@ -155,9 +158,10 @@ TODO: This table will be completed with a list of coins in a tabular form
 |MAXDATA|[MAXDATA](https://airdrop.maxdata.io)|0 Referal |Y       |Y    |Y       |Y    |
 
 # KYC
+These require a lot of personal information so think twice if you trust them with your documents
 * [inschain](http://telegram.me/inschain_bot)
 join group, enter eth, dob, email, name and gov id!
-
+* [bitnautic](https://bitnautic.io/en/register)
 * [investfeed](https://www.investfeed.com/)
 
 ## Not recommended
@@ -165,7 +169,7 @@ join group, enter eth, dob, email, name and gov id!
 This never sent any money out.
 
 ## Shady
-* https://powtoken.com/index.php this wants to have access to your twitter account via an app
+* [POW](https://powtoken.com/index.php) this wants to have access to your twitter account via an app
 
 # Closed
 These airdrops are CLOSED
@@ -173,7 +177,8 @@ These airdrops are CLOSED
 * [refereum](https://refereum.com/)
 * [Trendercoin](https://gleam.io/aAGFr/trendercoin-tdc-giveaway)
 * [logarithm](https://getlogarithm.com)
-
+* [CryptoBnB](https://cryptobnb.io)
+* [SandBlock](http://airdropalert.com/cms/join/sandblock)
 # Broken
 These are broken
 * [LAF coin](http://laf-coin.ru/) 246 free candies after you joined the group The global storage and file sharing platform based on Block-chain technology
