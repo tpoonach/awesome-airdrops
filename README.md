@@ -3,7 +3,7 @@
  
  Official Address [ https://tpoonach.github.io/awsome-airdops/](https://tpoonach.github.io/awsome-airdops/)
  
-> A curated list of delightful Airdrop [Airdrops](#Airdrops) and [Daily Free Coins](#Daily Free Coins).
+> A curated list of delightful Airdrops, Sources of new free coins, Daily Free Coins and zero ETH coindrops.
 
 ## No Referral links
 
