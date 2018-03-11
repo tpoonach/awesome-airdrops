@@ -1,7 +1,7 @@
 
 # Awesome Airdrops [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
  
- Official Address [ https://tpoonach.github.io/awsome-airdrops/](https://tpoonach.github.io/awsome-airdrops/)
+ Official Address [ https://tpoonach.github.io/awesome-airdrops/](https://tpoonach.github.io/awesome-airdrops/)
  
 > A curated list of delightful Airdrops, Sources of new free coins, Daily Free Coins and zero ETH coindrops.
 
