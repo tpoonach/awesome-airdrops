@@ -21,7 +21,6 @@ If you submit a pull request remove the referral link itself.
 * [MyCandyBag](http://mycandybag.net) has a nice easy list of a selected few coins, see the list of them further down.
 * [Coinairdrops](https://coinairdrops.com/) has some more
 * [TokenFree](http://token-free.com)
-* [Hypecodes](https://hype.codes/list-active-cryptocurrency-airdrops)
 * [FreeBitcoin](http://freebitcoin.directory/)
 * [BestAirDrops](https://bestairdrops.com/)
 
