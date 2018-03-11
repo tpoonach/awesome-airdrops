@@ -168,3 +168,11 @@ These are broken
 * [Corbit](https://corbit.website/airdrop)  Corbit CEX
 
 #### tags #awesome #awesome-list #unicorns #lists #resources
+
+PRs welcome!
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Feross Aboukhadijeh](http://feross.org) has waived all copyright and related or neighboring rights to this work.
