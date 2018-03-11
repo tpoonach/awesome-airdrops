@@ -34,12 +34,13 @@ These channels post new airdrops
 
 # Airdrops
 
+* [viuly](https://viuly.io/) Balance 10.0000 VIU (0.0713892 USD)
+* [sphere](https://sphere.social/) 50 SAT coins for signup
 * [Signals](https://signals.network/)
 * [acxnetwork](https://forms.acxnetwork.com/airdrop)
 * [lightcash.io](http://cont.st/)
 * [Elementh](https://elementh.io/)
 * [Synapse.ai ](https://tokensale.synapse.ai)
-
 * [Woter](https://woter.trade) 30 tokens for sign-up and telegram, 5 for referral; Decentralized Exchange.
 * [moxyone](https://airdrops.moxyone.mo.works)
 * [ETK](https://ethereumkey.org/registration.php) get 150 ETK
@@ -57,6 +58,13 @@ These channels post new airdrops
 * [gluon](https://www.gluon.com/tokensale)
 * [invox](https://airdrops.invox.mo.works/sign-up)
 * [ukit](https://token.ukit.com)
+
+## Google forms
+* [BlockArray](https://docs.google.com/forms/d/e/1FAIpQLSduMG_rikWocCI2Oec0hKPSDR_d3oJ7-GrjxdHQbynF-jYFAA/viewform)
+* [Subeum Airdrop](https://docs.google.com/forms/d/e/1FAIpQLSc1zi7iRIwyWKDyflZzOJc8ApTRyxy0jv5_Tzi5abKa2dn0oA/viewform?fbzx=-4926019626413182000)  ACCOUNTS REGISTERED AFTER 25 OCTOBER ARE NOT ELIGIBLE.
+* Arcah [ARCH](https://docs.google.com/forms/d/1XfZwGPrsiBPJb1R4fyOvJgQaW5e0JfW8pESo94g4-C0/viewform?edit_requested=true&fbzx=-5720521770949252000)
+* [finblock](https://docs.google.com/forms/d/e/1FAIpQLSdu30eeQ3ZMGGsxsdXZqYObMLmNX7wc6q6QwEp6ckHAlx76GA/viewform)
+* https://check.universa.io
 
 ## Telegram Only 
 * [DACC](http://referral.dacc.co) get 20 coins for telegram join
@@ -135,6 +143,7 @@ These are referal only not pure airdrops
 * [MAXDATA](https://airdrop.maxdata.io)
 * [TrakInvest](http://telegram.me/TrakInvestBounty_Bot ) 10 TRAKs per friend invited
 * [vuzzbee](https://www.vuzzbee.com)
+* https://ico.wcex.co/ REF BONUS 50 WCXT + 5% of the WCXT they buy, and they get an extra 15% bonus when they buy WCXT.
 
 # New Table
 
@@ -155,16 +164,24 @@ join group, enter eth, dob, email, name and gov id!
 * Send 0 ETH to [0xBeBfA8824924C3da2844aa292EaB26F6126D1A15](https://etherscan.io/address/0xbebfa8824924c3da2844aa292eab26f6126d1a15) get  500 BTCT  
 This never sent any money out.
 
+## Shady
+* https://powtoken.com/index.php this wants to have access to your twitter account via an app
+
 # Closed
 These airdrops are CLOSED
 * [classycoin](http://www.classycoin.io) give ETH address and get 50 ClassyCoin
 * [refereum](https://refereum.com/)
+* [Trendercoin](https://gleam.io/aAGFr/trendercoin-tdc-giveaway)
+* [logarithm](https://getlogarithm.com)
 
 # Broken
 These are broken
 * [LAF coin](http://laf-coin.ru/) 246 free candies after you joined the group The global storage and file sharing platform based on Block-chain technology
 * [ColourCoin](https://ColourCoin.org) 500 for eth address
 * [Corbit](https://corbit.website/airdrop)  Corbit CEX
+
+# App 
+* https://mona.co/referral this wants to install an app on your phone
 
 #### tags #awesome #awesome-list #unicorns #lists #resources
 
