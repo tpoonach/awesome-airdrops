@@ -33,7 +33,11 @@ These channels post new airdrops
 
 
 # Airdrops
-
+* [Lemonaid](https://lemonadepreneur.com/airdrop/) 1 token for signup..
+* [actioncoin](https://actioncoin.io/) 1000 for signup
+* [ORU](https://www.orumarketplace.com/) 50.00 ORU for registration. 
+* [DX](https://dx.network/#get-free-tokens)
+* [Nauticus](https://nauticus.io/) 100 for signup
 * [alidrop](http://alidrop.me/index-en.html) 100 for signup
 * [openfuture](http://bounty.openfuture.io/)
 * [viuly](https://viuly.io/) Balance 10.0000 VIU (0.0713892 USD)
@@ -179,6 +183,9 @@ These airdrops are CLOSED
 * [logarithm](https://getlogarithm.com)
 * [CryptoBnB](https://cryptobnb.io)
 * [SandBlock](http://airdropalert.com/cms/join/sandblock)
+* [Shping](https://airdrops.shping.mo.works/)
+* [mobilink](
+
 # Broken
 These are broken
 * [LAF coin](http://laf-coin.ru/) 246 free candies after you joined the group The global storage and file sharing platform based on Block-chain technology
