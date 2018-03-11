@@ -20,8 +20,14 @@ If you submit a pull request remove the referral link itself.
 * [AirdropAlerts](https://airdropalert.com/) has a nice page that lets you find ones you have not done yet
 * [MyCandyBag](http://mycandybag.net) has a nice easy list of a selected few coins, see the list of them further down.
 * [Coinairdrops](https://coinairdrops.com/) has some more
+* [TokenFree](http://token-free.com)
+* [Hypecodes](https://hype.codes/list-active-cryptocurrency-airdrops)
+* [FreeBitcoin](http://freebitcoin.directory/)
+* [BestAirDrops](https://bestairdrops.com/)
+
 
 ## Telegram Channels 
+These channels post new airdrops
 * [Airdrop alert channel](https://t.me/OFFICIALairdropalert)
 * [AirDropCryptocurrency](https://t.me/airdropcryptocurrency)
 * [CryptoAirdrops](https://t.me/crypto_airdrops)
@@ -30,46 +36,31 @@ If you submit a pull request remove the referral link itself.
 # Airdrops
 
 * [Signals](https://signals.network/)
-* [acxnetwork](forms.acxnetwork.com/airdrop)
+* [acxnetwork](https://forms.acxnetwork.com/airdrop)
 * [lightcash.io](http://cont.st/)
 * [Elementh](https://elementh.io/)
 * [Synapse.ai ](https://tokensale.synapse.ai)
-* [inschain](http://telegram.me/inschain_bot)
-* [LAF coin](http://laf-coin.ru/) 246 free candies after you joined the group The global storage and file sharing platform based on Block-chain technology
+
 * [Woter](https://woter.trade) 30 tokens for sign-up and telegram, 5 for referral; Decentralized Exchange.
-* [moxyone](https://airdrops.moxyone.mo.works/sign-up)
+* [moxyone](https://airdrops.moxyone.mo.works)
 * [ETK](https://ethereumkey.org/registration.php) get 150 ETK
-* [Viola](http://telegram.me/ViolaAI_AirdropBot)
 * [Gladius](https://airdrop.gladius.io)
-* [LEMO](www.lemochain.com/airdrop.html)
+* [LEMO](https://www.lemochain.com/airdrop.html)
 * [CoinDumpBiz](https://coindump.biz) Nice looking exchange
 * [SYNT](https://tokensale.syntheticsai.com) (SYNT) 100.00
 * [Havanacoin](https://havanaplux.com) join to take part in lotto
-
-* [YourBlock](https://t.me/yourblock_bot) get 20 YBK
-* [Hurify](http://telegram.me/HurifyBounty_Bot) (HUR)
-* [TradePlayz](http://vy.tc) (TPZ)
-* [RxEAL](http://telegram.me/RxEALBounty_Bot)  (RXL) 
-* [Apollo](http://t.me/Apollo_Airdrop_bot) … Apollo DAE
-* [AFT](http://telegram.me/ATFBounty_Bot) …  AFT
+* [TradePlayz](http://contest.tradeplayz.com/) (TPZ) Get Tokens by referring friends, following our social media, etc. 10 entries = 1 Zed. Ends April 15, 2018 11:59 PM GMT
 * [EDU](http://drop.edu.one)  EDU
-* [BitSong](https://bitsong.io/start)  BitSong
-* [Corbit](https://corbit.website/airdrop)  Corbit CEX
-* [vuzzbee](https://www.vuzzbee.com)
-* [aot](http://mycandybag.net/aot/)
-* [obrium](https://ico.obirum.com) get 100 OBR
+* [obrium](https://ico.obirum.com) send zero and get 100 OBR and there is a bounties program for signup
 * [fan](https://fantokenreferral.kickoffpages.com) Email, Telegram Name, Eth Wallet
-* [refereum](https://refereum.com/)
-* [ColourCoin](https://ColourCoin.org) 500 for eth address
+
 * [cloudbounce](https://www.cloudbounce.com/dbounce)
-* classycoin 829013187
 * [gluon](https://www.gluon.com/tokensale)
 * [invox](https://airdrops.invox.mo.works/sign-up)
 * [ukit](https://token.ukit.com)
+
 ## Telegram Only 
 * [DACC](http://referral.dacc.co) get 20 coins for telegram join
-* [InsuranceChain](http://t.me/insurchainairdropbot) 100 Telegram.  100 referral.
-
 
 # Candy Bag
 One of the easist ways to get coin you sign up on the website and it manages your coin 
@@ -86,6 +77,15 @@ One of the easist ways to get coin you sign up on the website and it manages you
 * [FishCoin](https://t.me/FishcoinBountyBot) basic aidrop with bonus coins for more info
 * [Caribbean Pirates](http://telegram.caripirates.io/index.html) Chinese : enter your eth address and join the [group](https://t.me/CaribbeanPiratesClub) and click on the link to get a code to paste to the group
 * [adh](https://adh.one/) join channel and group, enter eth and get code to paste to group
+* [inschain](http://telegram.me/inschain_bot)
+* [Viola](http://telegram.me/ViolaAI_AirdropBot)
+* [YourBlock](https://t.me/yourblock_bot) get 20 YBK
+* [Hurify](http://telegram.me/HurifyBounty_Bot) (HUR)
+* [RxEAL](http://telegram.me/RxEALBounty_Bot)  (RXL) 
+* [Apollo](http://t.me/Apollo_Airdrop_bot) … Apollo DAE
+* [AFT](http://telegram.me/ATFBounty_Bot) …  AFT
+* [InsuranceChain](http://t.me/insurchainairdropbot) 100 Telegram.  100 referral.
+* [BitSong](https://t.me/bitsong_bot)  BitSong
 
 # Daily Free Coins
 These you have to login daily to claim
@@ -111,6 +111,8 @@ Coins you sent 0 ether to to get for free
 * Send 0 ETH to this contract address and get 1000 PEW 0xa701122c1b67220a8B6883D03C8Ad67896B12466 Gas price: 1 Gwei Gas limit: 120000
 * Send 0 ETH To Address 0x5fa1Ea99eb3Acc1f9E84cF28Fde6431B8FDC9dc0 Gas limit   78135 / 6 GWEI
 
+
+
 ## Untested 
 
 * Send 0 ETH To Address 0xa701122c1b67220a8b6883d03c8ad67896b12466 Gas 100000 / 2 GWEI  : GET  250 (BroFistCoin) PEW http://brofistcoin.io/ https://bitcointalk.org/index.php?topic=2991802.0 
@@ -133,6 +135,7 @@ These are referal only not pure airdrops
 * [i5quant exchange](https://www.5iquant.org/user/iqtexSignup)
 * [MAXDATA](https://airdrop.maxdata.io)
 * [TrakInvest](http://telegram.me/TrakInvestBounty_Bot ) 10 TRAKs per friend invited
+* [vuzzbee](https://www.vuzzbee.com)
 
 # New Table
 TODO 
@@ -152,5 +155,15 @@ join group, enter eth, dob, email, name and gov id!
 * Send 0 ETH to [0xBeBfA8824924C3da2844aa292EaB26F6126D1A15](https://etherscan.io/address/0xbebfa8824924c3da2844aa292eab26f6126d1a15) get  500 BTCT  
 This never sent any money out.
 
+# Closed
+These airdrops are CLOSED
+* [classycoin](http://www.classycoin.io) give ETH address and get 50 ClassyCoin
+* [refereum](https://refereum.com/)
+
+# Broken
+These are broken
+* [LAF coin](http://laf-coin.ru/) 246 free candies after you joined the group The global storage and file sharing platform based on Block-chain technology
+* [ColourCoin](https://ColourCoin.org) 500 for eth address
+* [Corbit](https://corbit.website/airdrop)  Corbit CEX
 
 #### tags #awesome #awesome-list #unicorns #lists #resources
