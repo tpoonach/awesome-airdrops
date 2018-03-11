@@ -138,8 +138,9 @@ These are referal only not pure airdrops
 * [vuzzbee](https://www.vuzzbee.com)
 
 # New Table
-TODO 
-This table will be completed with a list of coins in a tabular form
+
+TODO: This table will be completed with a list of coins in a tabular form
+
 |COIN|LINK                                               |Amount    |Telegram|Email|Etherium|KYC  |
 |----|---------------------------------------------------|----------|--------|-----|--------|-    |
 |DACC|[DACC](http://referral.dacc.co)           |20        |Y       |N    | N      |N    |
