@@ -23,7 +23,7 @@ If you submit a pull request remove the referral link itself.
 * [TokenFree](http://token-free.com)
 * [FreeBitcoin](http://freebitcoin.directory/)
 * [BestAirDrops](https://bestairdrops.com/)
-
+* [BountyHive](https://bountyhive.io) has a great bounty subscription system
 
 ## Telegram Channels 
 These channels post new airdrops
@@ -33,6 +33,9 @@ These channels post new airdrops
 
 
 # Airdrops
+* [PHNX](https://phnxtoken.com/)
+* [ETU](https://etu.link/)
+* [tokengo](https://tokengoplatform.com)
 * [friendz](https://steward.friendz.io)
 * [Lemonaid](https://lemonadepreneur.com/airdrop/) 1 token for signup..
 * [actioncoin](https://actioncoin.io/) 1000 for signup
@@ -72,7 +75,10 @@ These channels post new airdrops
 * [Subeum Airdrop](https://docs.google.com/forms/d/e/1FAIpQLSc1zi7iRIwyWKDyflZzOJc8ApTRyxy0jv5_Tzi5abKa2dn0oA/viewform?fbzx=-4926019626413182000)  ACCOUNTS REGISTERED AFTER 25 OCTOBER ARE NOT ELIGIBLE.
 * Arcah [ARCH](https://docs.google.com/forms/d/1XfZwGPrsiBPJb1R4fyOvJgQaW5e0JfW8pESo94g4-C0/viewform?edit_requested=true&fbzx=-5720521770949252000)
 * [finblock](https://docs.google.com/forms/d/e/1FAIpQLSdu30eeQ3ZMGGsxsdXZqYObMLmNX7wc6q6QwEp6ckHAlx76GA/viewform)
-* https://check.universa.io
+* [universa](https://check.universa.io)
+* [GPN](https://gpncoin.com/)
+# Bounties
+* [Eventum](alpha.eventum.network) earn bounty points
 
 ## Telegram Only 
 * [DACC](http://referral.dacc.co) get 20 coins for telegram join
@@ -168,6 +174,8 @@ These require a lot of personal information so think twice if you trust them wit
 join group, enter eth, dob, email, name and gov id!
 * [bitnautic](https://bitnautic.io/en/register)
 * [investfeed](https://www.investfeed.com/)
+* [cappasity](https://tokensale.cappasity.com/dashboard/airdrop)
+* [medishares](http://candy.medishares.org/)
 
 ## Not recommended
 * Send 0 ETH to [0xBeBfA8824924C3da2844aa292EaB26F6126D1A15](https://etherscan.io/address/0xbebfa8824924c3da2844aa292eab26f6126d1a15) get  500 BTCT  
