@@ -33,6 +33,7 @@ These channels post new airdrops
 
 
 # Airdrops
+* [friendz](https://steward.friendz.io)
 * [Lemonaid](https://lemonadepreneur.com/airdrop/) 1 token for signup..
 * [actioncoin](https://actioncoin.io/) 1000 for signup
 * [ORU](https://www.orumarketplace.com/) 50.00 ORU for registration. 
