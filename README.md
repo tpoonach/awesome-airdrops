@@ -33,6 +33,9 @@ These channels post new airdrops
 
 
 # Airdrops
+* [CIBUS](https://cibus.world)
+* [OWNDATA](https://owndata.network/)
+* [zonto](https://zonto.world) social media site like facebook
 * [PHNX](https://phnxtoken.com/)
 * [ETU](https://etu.link/)
 * [tokengo](https://tokengoplatform.com)
