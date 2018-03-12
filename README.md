@@ -33,6 +33,7 @@ These channels post new airdrops
 
 
 # Airdrops
+* [Corl](https://www.corl.io/airdrop/)
 * [CIBUS](https://cibus.world)
 * [OWNDATA](https://owndata.network/)
 * [zonto](https://zonto.world) social media site like facebook
@@ -82,7 +83,7 @@ These channels post new airdrops
 * [GPN](https://gpncoin.com/)
 # Bounties
 * [Eventum](alpha.eventum.network) earn bounty points
-
+* [Connect Job](https://ico.connectjob.io/bounty)
 ## Telegram Only 
 * [DACC](http://referral.dacc.co) get 20 coins for telegram join
 
@@ -186,7 +187,9 @@ This never sent any money out.
 
 ## Shady
 * [POW](https://powtoken.com/index.php) this wants to have access to your twitter account via an app
+* VELIX.ID not an airdrop, a bounty
 
+ 
 # Closed
 These airdrops are CLOSED
 * [classycoin](http://www.classycoin.io) give ETH address and get 50 ClassyCoin
@@ -203,6 +206,7 @@ These are broken
 * [LAF coin](http://laf-coin.ru/) 246 free candies after you joined the group The global storage and file sharing platform based on Block-chain technology
 * [ColourCoin](https://ColourCoin.org) 500 for eth address
 * [Corbit](https://corbit.website/airdrop)  Corbit CEX
+* Pharmz Airdrop : not working
 
 # App 
 * https://mona.co/referral this wants to install an app on your phone
